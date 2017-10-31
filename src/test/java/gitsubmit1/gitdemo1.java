@@ -8,5 +8,6 @@ public class gitdemo1 {
     {
         System.out.println("Trying to commit the first 1");
         System.out.println("Trying to commit the first 2");
+        System.out.println("Trying to commit the first 2");
     }
 }
