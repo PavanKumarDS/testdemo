@@ -11,5 +11,6 @@ public class gitdemo1 {
         System.out.println("Trying to commit the first 3");
         System.out.println("Trying to commit the first 4");
         System.out.println("Trying to commit the first 5");
+        System.out.println("Trying to commit the first 6");
     }
 }
